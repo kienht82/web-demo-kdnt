@@ -1,0 +1,21 @@
+# Dữ liệu và file bảng tính: không đưa lên repo
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv
+*.pbix
+*.docx
+*.pptx
+
+# Bí mật và cấu hình cá nhân
+.env
+*.env
+*.key
+*.pem
+secrets/
+data/
+
+# File hệ thống
+.DS_Store
+Thumbs.db
+desktop.ini
